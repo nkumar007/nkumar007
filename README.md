@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **NextJS and building an IssueTracker**
+
 
 - 👨‍💻 All of my projects are available at [https://naveenk.in](https://naveenk.in)
 
